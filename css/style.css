@@ -12,12 +12,20 @@ body {
     color: #FFFFFF;
 }
 
+a {
+    color: #FFFFFF;
+}
+
 .text-center {
     text-align: center;
 }
 
 .section {
     margin-bottom: 72px;
+}
+
+.section:last-child {
+    margin-bottom: 0px;
 }
 
 .container {
